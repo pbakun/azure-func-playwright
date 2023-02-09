@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "playwright_docker": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7015",
+      "launchBrowser": false
+    }
+  }
+}
